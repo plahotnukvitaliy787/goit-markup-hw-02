@@ -15,8 +15,8 @@ body {
 .accent-head {
     color: #2e2f42;
 }
-.nav-link .link:hover,
-.nav-link .link:focus {
+.nav-link:hover,
+.nav-link:focus {
     background-color: #404BBF;
 }
 .nav-link {
@@ -43,8 +43,8 @@ body {
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
-.hero-button .link:hover,
-.hero-button .link:focus {
+.hero-button:hover,
+.hero-button:focus {
     background-color: #404BBF;
 }
 .hero-button {
