@@ -43,7 +43,7 @@ body {
 .hero-button:focus,
 .nav-link:hover,
 .nav-link:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 .hero-button {
     background-color: #4D5AE5;
