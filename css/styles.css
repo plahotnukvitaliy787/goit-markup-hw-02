@@ -15,10 +15,6 @@ body {
 .accent-head {
     color: #2e2f42;
 }
-.nav-link:hover,
-.nav-link:focus {
-    background-color: #404BBF;
-}
 .nav-link {
     font-weight: 500;
     font-size: 16px;
@@ -44,8 +40,10 @@ body {
     color: #FFFFFF;
 }
 .hero-button:hover,
-.hero-button:focus {
-    background-color: #404BBF;
+.hero-button:focus,
+.nav-link:hover,
+.nav-link:focus {
+    background-color: #404bbf;
 }
 .hero-button {
     background-color: #4D5AE5;
