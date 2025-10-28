@@ -40,9 +40,13 @@ body {
     color: #FFFFFF;
 }
 .hero-button:hover,
-.hero-button:focus,
+.hero-button:focus {
+    background-color: #404bbf;
+}
 .nav-link:hover,
-.nav-link:focus {
+.nav-link:focus,
+.address-link:hover,
+.address-link:focus {
     color: #404bbf;
 }
 .hero-button {
